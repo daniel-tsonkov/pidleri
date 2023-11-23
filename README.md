@@ -6,4 +6,4 @@ Pidleri [link](https://pidleri.com) е експериментален проек
 - бак енд - https://github.com/daniel-tsonkov/fullProcessor-backEnd.git логика необходима на модулите. за разработката ще се използва Java и съпитстващите го технологии.
 то-до
 Да се почне фронт енд. до 14.12.2023
-
+just commit
